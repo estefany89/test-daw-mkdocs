@@ -1,2 +1,2 @@
 # test-daw-mkdocs
-Ejemplo de clase Mkdocs y pages
+Ejemplo clase uso Mkdocs y pages
